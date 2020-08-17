@@ -1,0 +1,10 @@
+venv
+test.py
+README.md
+service-account.json
+/tmp/*.json
+
+.gitignore
+.idea
+__pycache__
+.DS_Store

@@ -1,0 +1,15 @@
+[{
+        "origin": [
+                "*"
+        ],
+        "responseHeader": [
+                "Content-Type",
+                "x-goog-resumable"
+        ],
+        "method": [
+                "GET",
+                "PUT",
+                "POST"
+        ],
+        "maxAgeSeconds": 3600
+}]
