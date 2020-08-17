@@ -29,5 +29,6 @@ auto-rebuild hook.
 
 I also got the initial load times from >7s to <1s :)
 
-You can find scripts for `deploying` and `setting CORS policies` 
-in the directory `bash-scripts`.
+You can find scripts for *deploying*, *setting CORS policies*  
+and *making all files inside a bucket puplic* in the directory  
+`bash-scripts`.
