@@ -1,9 +1,8 @@
 venv
-test.py
-README.md
 service-account.json
 /tmp/*.json
 
 .idea
 __pycache__
 .DS_Store
+Pipfile.lock
